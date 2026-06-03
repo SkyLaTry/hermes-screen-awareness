@@ -73,6 +73,18 @@ Cache directory: `~/.hermes/cache/screen-awareness/` (ephemeral, not session his
 
 Captures the display on the **machine running the gateway** — on a remote VPS that is the server screen, not your laptop.
 
+## Related SkyLaTry plugins
+
+See [PLUGINS.md](PLUGINS.md) for install one-liners and the full index.
+
+| Plugin | Repository |
+|--------|------------|
+| Hermes Essentials | [hermes-essentials](https://github.com/SkyLaTry/hermes-essentials) |
+| **Screen Awareness** *(this repo)* | [hermes-screen-awareness](https://github.com/SkyLaTry/hermes-screen-awareness) |
+| Sys Controll | [hermes-sys-controll](https://github.com/SkyLaTry/hermes-sys-controll) |
+| Lemonade LLM Image | [hermes-lemonade-llm-image-support](https://github.com/SkyLaTry/hermes-lemonade-llm-image-support) |
+| Image Local Tools | [hermes-image-local-tools](https://github.com/SkyLaTry/hermes-image-local-tools) |
+
 ## License
 
 SkyLaTry Shared Source License — see [LICENSE](LICENSE) and [LICENSING.md](LICENSING.md).
