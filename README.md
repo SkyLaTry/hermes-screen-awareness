@@ -85,6 +85,10 @@ See [PLUGINS.md](PLUGINS.md) for install one-liners and the full index.
 | Lemonade LLM Image | [hermes-lemonade-llm-image-support](https://github.com/SkyLaTry/hermes-lemonade-llm-image-support) |
 | Image Local Tools | [hermes-image-local-tools](https://github.com/SkyLaTry/hermes-image-local-tools) |
 
+---
+> **Experimental:** This plugin is still in an early, experimental phase. Behavior and configuration may change between releases. If you hit bugs or something doesn’t work as expected, please [open an issue](https://github.com/SkyLaTry/hermes-screen-awareness/issues) on this repository — feedback and reports help a lot.
+---
+
 ## License
 
 SkyLaTry Shared Source License — see [LICENSE](LICENSE) and [LICENSING.md](LICENSING.md).
